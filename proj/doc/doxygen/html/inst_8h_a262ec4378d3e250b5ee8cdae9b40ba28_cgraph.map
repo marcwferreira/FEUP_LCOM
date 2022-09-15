@@ -1,0 +1,4 @@
+<map id="drawInstPage" name="drawInstPage">
+<area shape="rect" id="node1" title="This funtions load the instruciton page (a xpm) to the tertiaty buffer (or &quot;static elements&quot; buffer)." alt="" coords="5,5,115,32"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#a4ab4d19eaa963077f2d4e42e8f46212d" title="This function copies anything not transparent of the draw buffer to the image buffer." alt="" coords="163,5,323,32"/>
+</map>

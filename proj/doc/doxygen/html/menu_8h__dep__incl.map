@@ -1,0 +1,5 @@
+<map id="game/modes/menu.h" name="game/modes/menu.h">
+<area shape="rect" id="node1" title=" " alt="" coords="73,5,233,32"/>
+<area shape="rect" id="node2" href="$menu_8c.html" title=" " alt="" coords="5,80,164,107"/>
+<area shape="rect" id="node3" href="$main_8c.html" title=" " alt="" coords="189,80,255,107"/>
+</map>

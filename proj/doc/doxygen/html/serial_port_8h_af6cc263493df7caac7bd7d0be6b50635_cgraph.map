@@ -1,0 +1,8 @@
+<map id="sp_ih" name="sp_ih">
+<area shape="rect" id="node1" title="Serial ports&#39;s interrupt handler." alt="" coords="5,132,61,159"/>
+<area shape="rect" id="node2" href="$serial_port_8c.html#a0f2fa0bd6d33cf6b49390a96ff0192e5" title="This function reads a byte from the serial port and pushes it to the received data queue." alt="" coords="109,81,196,108"/>
+<area shape="rect" id="node6" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="This function reads from the specified port and transforms the recevied value into an 8 bit number;." alt="" coords="404,107,503,133"/>
+<area shape="rect" id="node3" href="$queue_8c.html#a25897dd8dc27d857546b0d3f81058d8c" title=" " alt="" coords="273,5,327,32"/>
+<area shape="rect" id="node5" href="$serial_port_8c.html#a345aef3f6a10f62322b353279a08d690" title="This function reads the status of the serial port." alt="" coords="244,56,356,83"/>
+<area shape="rect" id="node4" href="$queue_8c.html#a3f2350d97e2b928dece5642ebfc1d173" title=" " alt="" coords="425,5,481,32"/>
+</map>

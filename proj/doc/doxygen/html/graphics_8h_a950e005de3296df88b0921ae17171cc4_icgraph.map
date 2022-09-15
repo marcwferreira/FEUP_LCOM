@@ -1,0 +1,9 @@
+<map id="drawXpmDrawBuffer" name="drawXpmDrawBuffer">
+<area shape="rect" id="node1" title="This function loads a xpm image to the drawBuffer." alt="" coords="787,56,944,83"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#ab079675f195499a618d869414d0d5bb7" title="This function draws the top bar of the game in drawing and guessing modes." alt="" coords="603,56,731,83"/>
+<area shape="rect" id="node3" href="$menu_8c.html#a0003deda87fcc4090e53c2775f163144" title="This function process the pressing of jeys by the player and realizes the function correct action for..." alt="" coords="388,5,525,32"/>
+<area shape="rect" id="node7" href="$menu_8c.html#ab859ac644122c981608478833cf4b7ee" title="This function detects it the player is pressing the instruction button and if the press if valid...." alt="" coords="595,107,739,133"/>
+<area shape="rect" id="node6" href="$menu_8c.html#a6a4c43846a973f849b2027363176dcb2" title="This function detects it the player is pressing the draw button and if the press if valid...." alt="" coords="367,56,547,83"/>
+<area shape="rect" id="node4" href="$main_8c.html#a9c74859d9e32b26fca9274d294eff910" title=" " alt="" coords="176,56,319,83"/>
+<area shape="rect" id="node5" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,56,128,83"/>
+</map>

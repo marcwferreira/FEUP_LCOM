@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['scancode_281',['scancode',['../keyboard_8c.html#aa1de7a5557e9d96b83cf03f73c92163f',1,'scancode():&#160;keyboard.c'],['../main_8c.html#aa1de7a5557e9d96b83cf03f73c92163f',1,'scancode():&#160;keyboard.c']]],
+  ['send_5fbyte_282',['send_byte',['../serial_port_8c.html#af26804966e7098d673255be2b3985449',1,'send_byte(uint8_t byte):&#160;serialPort.c'],['../serial_port_8h.html#af26804966e7098d673255be2b3985449',1,'send_byte(uint8_t byte):&#160;serialPort.c']]],
+  ['serialport_2ec_283',['serialPort.c',['../serial_port_8c.html',1,'']]],
+  ['serialport_2eh_284',['serialPort.h',['../serial_port_8h.html',1,'']]],
+  ['size_285',['size',['../struct_queue.html#ac7d9701d244e3ba255ef8556e0562dc6',1,'Queue']]],
+  ['sp_2eh_286',['SP.h',['../_s_p_8h.html',1,'']]],
+  ['sp_5fattemps_287',['SP_ATTEMPS',['../serial_port_8h.html#aafaf0fb2403ef5b14468ef21e44bdaf7',1,'serialPort.h']]],
+  ['sp_5fclearinterrupts_288',['SP_clearInterrupts',['../serial_port_8c.html#aeaa3f7885cf1173c43a4f70f58c9abfd',1,'SP_clearInterrupts():&#160;serialPort.c'],['../serial_port_8h.html#aeaa3f7885cf1173c43a4f70f58c9abfd',1,'SP_clearInterrupts():&#160;serialPort.c']]],
+  ['sp_5fexit_289',['sp_exit',['../serial_port_8c.html#aa760312b9a669254363ace4228c95441',1,'sp_exit():&#160;serialPort.c'],['../serial_port_8h.html#aa760312b9a669254363ace4228c95441',1,'sp_exit():&#160;serialPort.c']]],
+  ['sp_5fget_5fstatus_290',['sp_get_status',['../serial_port_8h.html#a345aef3f6a10f62322b353279a08d690',1,'sp_get_status(uint8_t *status):&#160;serialPort.c'],['../serial_port_8c.html#a345aef3f6a10f62322b353279a08d690',1,'sp_get_status(uint8_t *status):&#160;serialPort.c']]],
+  ['sp_5fhook_5fid_291',['sp_hook_id',['../serial_port_8c.html#a279e4c9a05cd63c43dd4c18c80c27483',1,'serialPort.c']]],
+  ['sp_5fih_292',['sp_ih',['../serial_port_8c.html#af6cc263493df7caac7bd7d0be6b50635',1,'sp_ih():&#160;serialPort.c'],['../serial_port_8h.html#af6cc263493df7caac7bd7d0be6b50635',1,'sp_ih():&#160;serialPort.c']]],
+  ['sp_5finit_293',['sp_init',['../serial_port_8c.html#a413c45b134b03a909b49aa3b5b2bd003',1,'sp_init():&#160;serialPort.c'],['../serial_port_8h.html#a413c45b134b03a909b49aa3b5b2bd003',1,'sp_init():&#160;serialPort.c']]],
+  ['sp_5fsubscribe_5fint_294',['sp_subscribe_int',['../serial_port_8c.html#a91109afddc86957b554ce7ec799bd41b',1,'sp_subscribe_int(uint8_t *bitno):&#160;serialPort.c'],['../serial_port_8h.html#a91109afddc86957b554ce7ec799bd41b',1,'sp_subscribe_int(uint8_t *bitno):&#160;serialPort.c']]],
+  ['sp_5funsubscribe_5fint_295',['sp_unsubscribe_int',['../serial_port_8c.html#ad9cfa399df9032ec99f760195d457e9a',1,'sp_unsubscribe_int():&#160;serialPort.c'],['../serial_port_8h.html#ad9cfa399df9032ec99f760195d457e9a',1,'sp_unsubscribe_int():&#160;serialPort.c']]],
+  ['speaker_5fctrl_296',['SPEAKER_CTRL',['../group__i8254.html#ga51b3a5e3d4811ca063fe25e35560ab40',1,'i8254.h']]],
+  ['sprite_297',['Sprite',['../sprites_8h.html#abb1060e0b7ecf8b4eba2c1bb55cfe5e2',1,'Sprite():&#160;sprites.h'],['../struct_sprite.html',1,'Sprite']]],
+  ['sprites_2ec_298',['sprites.c',['../sprites_8c.html',1,'']]],
+  ['sprites_2eh_299',['sprites.h',['../sprites_8h.html',1,'']]],
+  ['sr_300',['SR',['../_s_p_8h.html#abaed93a16a0cde13f32bc4dc48b96804',1,'SP.h']]],
+  ['startdrawpressed_301',['startDrawPressed',['../menu_8c.html#a853ebeee3512ef4b958e7493baf6a5c8',1,'startDrawPressed():&#160;menu.c'],['../sprites_8c.html#a853ebeee3512ef4b958e7493baf6a5c8',1,'startDrawPressed():&#160;menu.c']]],
+  ['startguesspressed_302',['startGuessPressed',['../menu_8c.html#a6d019494011af3c1de7a684b7091b2f1',1,'startGuessPressed():&#160;menu.c'],['../sprites_8c.html#a6d019494011af3c1de7a684b7091b2f1',1,'startGuessPressed():&#160;menu.c']]],
+  ['subscribe_5fkbc_5finterrupts_303',['subscribe_KBC_interrupts',['../keyboard_8c.html#a6cadb7cb6407473cb67f74a4a840dd2c',1,'subscribe_KBC_interrupts(uint8_t *bit_no):&#160;keyboard.c'],['../keyboard_8h.html#a6cadb7cb6407473cb67f74a4a840dd2c',1,'subscribe_KBC_interrupts(uint8_t *bit_no):&#160;keyboard.c']]]
+];

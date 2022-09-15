@@ -1,0 +1,5 @@
+<map id="createSprite" name="createSprite">
+<area shape="rect" id="node1" title="Create a Sprite object from a xpm." alt="" coords="319,5,420,32"/>
+<area shape="rect" id="node2" href="$sprites_8c.html#ab5ff3699eca81ef3a5c415ac2eebac3c" title="A function that loads all the needed Sprites when te program starts running. allocates memory as need..." alt="" coords="176,5,271,32"/>
+<area shape="rect" id="node3" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,128,32"/>
+</map>

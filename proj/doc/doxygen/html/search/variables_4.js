@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['gamemode_530',['gameMode',['../drawing_8c.html#aa535a3201e6b21c12dc05f4fa9a3e7c2',1,'gameMode():&#160;main.c'],['../guessing_8c.html#aa535a3201e6b21c12dc05f4fa9a3e7c2',1,'gameMode():&#160;main.c'],['../inst_8c.html#aa535a3201e6b21c12dc05f4fa9a3e7c2',1,'gameMode():&#160;main.c'],['../menu_8c.html#aa535a3201e6b21c12dc05f4fa9a3e7c2',1,'gameMode():&#160;main.c'],['../main_8c.html#aa535a3201e6b21c12dc05f4fa9a3e7c2',1,'gameMode():&#160;main.c'],['../sprites_8c.html#aa535a3201e6b21c12dc05f4fa9a3e7c2',1,'gameMode():&#160;main.c'],['../game_8c.html#aa535a3201e6b21c12dc05f4fa9a3e7c2',1,'gameMode():&#160;main.c']]],
+  ['gameplaycounter_531',['gameplayCounter',['../game_8c.html#a1e30742bebf19a062d6570158986c241',1,'gameplayCounter():&#160;game.c'],['../menu_8c.html#a1e30742bebf19a062d6570158986c241',1,'gameplayCounter():&#160;game.c'],['../main_8c.html#a1e30742bebf19a062d6570158986c241',1,'gameplayCounter():&#160;game.c']]],
+  ['gamerunning_532',['gameRunning',['../menu_8c.html#aaa52a27abaaf72231a84c99f2bfa4283',1,'gameRunning():&#160;main.c'],['../main_8c.html#aaa52a27abaaf72231a84c99f2bfa4283',1,'gameRunning():&#160;main.c']]],
+  ['gamestate_533',['gameState',['../serial_port_8c.html#ab7ad0796d84021de0fd46246b3d5096f',1,'gameState():&#160;main.c'],['../drawing_8c.html#ab7ad0796d84021de0fd46246b3d5096f',1,'gameState():&#160;main.c'],['../guessing_8c.html#ab7ad0796d84021de0fd46246b3d5096f',1,'gameState():&#160;main.c'],['../main_8c.html#a2706ed05d331ef3b53c728a6868bda26',1,'gameState():&#160;main.c']]],
+  ['gametitle_534',['gameTitle',['../sprites_8h.html#a4fcbb6da63af29c32bf1d8f9dd90406a',1,'sprites.h']]],
+  ['guessbutton_535',['guessButton',['../sprites_8h.html#a3037b2300a5eeff55aef49347c6caab9',1,'sprites.h']]],
+  ['guessstartedhandshake_536',['guessStartedHandShake',['../serial_port_8c.html#a122f137ffc0e785c8ac07d752021c1aa',1,'guessStartedHandShake():&#160;main.c'],['../main_8c.html#a122f137ffc0e785c8ac07d752021c1aa',1,'guessStartedHandShake():&#160;main.c']]]
+];

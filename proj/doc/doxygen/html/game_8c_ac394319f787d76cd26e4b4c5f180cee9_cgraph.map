@@ -1,0 +1,5 @@
+<map id="gamePlayCounterDraw" name="gamePlayCounterDraw">
+<area shape="rect" id="node1" title="This funtion draws the in&#45;game counter on the screen." alt="" coords="5,5,177,32"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#a4a7701a7c35f0ff156dba3e5f9c9f48e" title="This function draws a xpm to the display." alt="" coords="225,5,313,32"/>
+<area shape="rect" id="node3" href="$graphics_8c.html#a08c498ffeb0a3962e3b7711b57397741" title="This functions sets the color of the pixel in the position given to the desired color,..." alt="" coords="361,5,476,32"/>
+</map>

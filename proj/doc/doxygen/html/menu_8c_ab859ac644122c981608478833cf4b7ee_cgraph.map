@@ -1,0 +1,5 @@
+<map id="processInstrButton" name="processInstrButton">
+<area shape="rect" id="node1" title="This function detects it the player is pressing the instruction button and if the press if valid...." alt="" coords="5,31,149,57"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#af17fcbf1be075a018f5b5e657275ec69" title="This function fills the buffer with the color white." alt="" coords="213,5,339,32"/>
+<area shape="rect" id="node3" href="$graphics_8c.html#a950e005de3296df88b0921ae17171cc4" title="This function loads a xpm image to the drawBuffer." alt="" coords="197,56,355,83"/>
+</map>

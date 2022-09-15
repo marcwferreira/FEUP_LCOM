@@ -1,0 +1,13 @@
+<map id="print_xpm" name="print_xpm">
+<area shape="rect" id="node1" title="This function draws a xpm to the display." alt="" coords="1016,81,1104,108"/>
+<area shape="rect" id="node2" href="$drawing_8c.html#ade6f4eb2ec2071b4ad3b0cd6ed67d8fa" title="This function loads the differents components of a frame into the secondary buffer." alt="" coords="598,56,745,83"/>
+<area shape="rect" id="node5" href="$menu_8c.html#a252c3e287edc6236251be9dd8517334c" title="This function loads the differents components of a frame into the secondary buffer." alt="" coords="411,5,502,32"/>
+<area shape="rect" id="node6" href="$game_8c.html#ac394319f787d76cd26e4b4c5f180cee9" title="This funtion draws the in&#45;game counter on the screen." alt="" coords="796,107,968,133"/>
+<area shape="rect" id="node8" href="$game_8c.html#af21d5e92b258d5834ab2d92883039e76" title="This function reads the array of the word given to the draw user and prints the xpm of the letter at ..." alt="" coords="821,157,943,184"/>
+<area shape="rect" id="node3" href="$main_8c.html#a9c74859d9e32b26fca9274d294eff910" title=" " alt="" coords="176,107,319,133"/>
+<area shape="rect" id="node4" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,107,128,133"/>
+<area shape="rect" id="node7" href="$guessing_8c.html#a72a912df7f85b2c72f8e69c73c632f05" title="This function loads the differents components of a frame into the secondary buffer." alt="" coords="595,107,748,133"/>
+<area shape="rect" id="node9" href="$drawing_8c.html#a4119c1dbe665fcb4ee64800849b8b40f" title="This funtion process the word selected for the gameplay and displays it to the screen when called." alt="" coords="619,157,724,184"/>
+<area shape="rect" id="node10" href="$menu_8c.html#a0003deda87fcc4090e53c2775f163144" title="This function process the pressing of jeys by the player and realizes the function correct action for..." alt="" coords="388,208,525,235"/>
+<area shape="rect" id="node11" href="$menu_8c.html#a6a4c43846a973f849b2027363176dcb2" title="This function detects it the player is pressing the draw button and if the press if valid...." alt="" coords="367,157,547,184"/>
+</map>

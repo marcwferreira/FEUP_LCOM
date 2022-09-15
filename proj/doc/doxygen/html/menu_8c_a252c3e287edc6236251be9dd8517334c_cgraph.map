@@ -1,0 +1,6 @@
+<map id="drawMenu" name="drawMenu">
+<area shape="rect" id="node1" title="This function loads the differents components of a frame into the secondary buffer." alt="" coords="5,31,96,57"/>
+<area shape="rect" id="node2" href="$sprites_8c.html#a3fc1965bb7f45fd72fff8a402c507186" title="Draws a loaded SPrite onto the screen, The x and y represents the top left corner of the Sprite." alt="" coords="144,5,236,32"/>
+<area shape="rect" id="node4" href="$graphics_8c.html#a4a7701a7c35f0ff156dba3e5f9c9f48e" title="This function draws a xpm to the display." alt="" coords="146,56,234,83"/>
+<area shape="rect" id="node3" href="$graphics_8c.html#a08c498ffeb0a3962e3b7711b57397741" title="This functions sets the color of the pixel in the position given to the desired color,..." alt="" coords="284,31,399,57"/>
+</map>

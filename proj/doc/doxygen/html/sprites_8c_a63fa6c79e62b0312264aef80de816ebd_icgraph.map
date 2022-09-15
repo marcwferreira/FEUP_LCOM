@@ -1,0 +1,4 @@
+<map id="unloadSprites" name="unloadSprites">
+<area shape="rect" id="node1" title="A function that loads all the needed Sprites when te program starts running, it also frees the memory..." alt="" coords="176,5,287,32"/>
+<area shape="rect" id="node2" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,128,32"/>
+</map>

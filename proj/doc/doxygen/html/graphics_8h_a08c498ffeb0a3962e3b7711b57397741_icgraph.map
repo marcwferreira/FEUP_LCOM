@@ -1,0 +1,18 @@
+<map id="vg_draw_pixel" name="vg_draw_pixel">
+<area shape="rect" id="node1" title="This functions sets the color of the pixel in the position given to the desired color,..." alt="" coords="1180,132,1295,159"/>
+<area shape="rect" id="node2" href="$sprites_8c.html#a3fc1965bb7f45fd72fff8a402c507186" title="Draws a loaded SPrite onto the screen, The x and y represents the top left corner of the Sprite." alt="" coords="1028,56,1120,83"/>
+<area shape="rect" id="node7" href="$graphics_8c.html#a4a7701a7c35f0ff156dba3e5f9c9f48e" title="This function draws a xpm to the display." alt="" coords="1030,132,1118,159"/>
+<area shape="rect" id="node15" href="$graphics_8c.html#a5e5b25bd525250f61f40b9e9f212d5e6" title="This function draws a line on the screen." alt="" coords="1016,233,1132,260"/>
+<area shape="rect" id="node3" href="$menu_8c.html#a252c3e287edc6236251be9dd8517334c" title="This function loads the differents components of a frame into the secondary buffer." alt="" coords="837,56,927,83"/>
+<area shape="rect" id="node6" href="$game_8c.html#af764651554437af7a7e62cb5075b25fe" title="This function prints the xpm of the mouse on the screen, it checks to see with mouse xpm it should us..." alt="" coords="409,5,504,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a9c74859d9e32b26fca9274d294eff910" title=" " alt="" coords="176,132,319,159"/>
+<area shape="rect" id="node5" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,132,128,159"/>
+<area shape="rect" id="node8" href="$drawing_8c.html#ade6f4eb2ec2071b4ad3b0cd6ed67d8fa" title="This function loads the differents components of a frame into the secondary buffer." alt="" coords="598,107,745,133"/>
+<area shape="rect" id="node9" href="$game_8c.html#ac394319f787d76cd26e4b4c5f180cee9" title="This funtion draws the in&#45;game counter on the screen." alt="" coords="796,157,968,184"/>
+<area shape="rect" id="node11" href="$game_8c.html#af21d5e92b258d5834ab2d92883039e76" title="This function reads the array of the word given to the draw user and prints the xpm of the letter at ..." alt="" coords="821,208,943,235"/>
+<area shape="rect" id="node10" href="$guessing_8c.html#a72a912df7f85b2c72f8e69c73c632f05" title="This function loads the differents components of a frame into the secondary buffer." alt="" coords="595,157,748,184"/>
+<area shape="rect" id="node12" href="$drawing_8c.html#a4119c1dbe665fcb4ee64800849b8b40f" title="This funtion process the word selected for the gameplay and displays it to the screen when called." alt="" coords="619,208,724,235"/>
+<area shape="rect" id="node13" href="$menu_8c.html#a0003deda87fcc4090e53c2775f163144" title="This function process the pressing of jeys by the player and realizes the function correct action for..." alt="" coords="388,208,525,235"/>
+<area shape="rect" id="node14" href="$menu_8c.html#a6a4c43846a973f849b2027363176dcb2" title="This function detects it the player is pressing the draw button and if the press if valid...." alt="" coords="367,259,547,285"/>
+<area shape="rect" id="node16" href="$graphics_8c.html#a99d2da2559e11200c6b40c469e9977ec" title="This function draws a rectagle (or square) of the desired size starting x and y as the top left corne..." alt="" coords="809,259,955,285"/>
+</map>

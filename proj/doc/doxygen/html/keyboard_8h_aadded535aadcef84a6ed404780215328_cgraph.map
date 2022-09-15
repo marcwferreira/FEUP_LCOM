@@ -1,0 +1,7 @@
+<map id="kbc_restore" name="kbc_restore">
+<area shape="rect" id="node1" title="Restore the KBC configuration to MINIX&#39;s default." alt="" coords="5,31,104,57"/>
+<area shape="rect" id="node2" href="$keyboard_8c.html#a2a43cda4f3f1e4a217efa830e01d4e4d" title="This function reads the content in the specified port." alt="" coords="165,56,300,83"/>
+<area shape="rect" id="node5" href="$keyboard_8c.html#a34b653b3939fffe883c903cdadb36d3a" title="This function writes a command to the specified port." alt="" coords="152,5,313,32"/>
+<area shape="rect" id="node3" href="$keyboard_8c.html#ac024af91b156e4fc61ee3886b891de21" title="This function reads the status of the KBC." alt="" coords="361,5,493,32"/>
+<area shape="rect" id="node4" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="This function reads from the specified port and transforms the recevied value into an 8 bit number;." alt="" coords="541,31,640,57"/>
+</map>

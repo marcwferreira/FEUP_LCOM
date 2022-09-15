@@ -1,0 +1,13 @@
+<map id="processStartDrawButton" name="processStartDrawButton">
+<area shape="rect" id="node1" title="This function detects it the player is pressing the draw button and if the press if valid...." alt="" coords="5,81,185,108"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#af17fcbf1be075a018f5b5e657275ec69" title="This function fills the buffer with the color white." alt="" coords="234,5,361,32"/>
+<area shape="rect" id="node3" href="$graphics_8c.html#a0eb44dd3048885b5c6bdac8f78899487" title="This function draws the bottom bar of the game in drawing and guessing modes." alt="" coords="236,56,359,83"/>
+<area shape="rect" id="node5" href="$graphics_8c.html#ab079675f195499a618d869414d0d5bb7" title="This function draws the top bar of the game in drawing and guessing modes." alt="" coords="233,107,361,133"/>
+<area shape="rect" id="node7" href="$drawing_8c.html#a4119c1dbe665fcb4ee64800849b8b40f" title="This funtion process the word selected for the gameplay and displays it to the screen when called." alt="" coords="245,157,350,184"/>
+<area shape="rect" id="node4" href="$graphics_8c.html#a11c8e09efdeb8391158cdc8f1a55271a" title="This function draws the static components of the header and the footer in guess mode and draw mode." alt="" coords="409,56,585,83"/>
+<area shape="rect" id="node6" href="$graphics_8c.html#a950e005de3296df88b0921ae17171cc4" title="This function loads a xpm image to the drawBuffer." alt="" coords="419,107,576,133"/>
+<area shape="rect" id="node8" href="$reader_8c.html#a9854eb457e948d5d8338561da6cd53df" title="This function reads a random word from the file containing the list of words that a player has to dra..." alt="" coords="455,157,539,184"/>
+<area shape="rect" id="node9" href="$game_8c.html#af21d5e92b258d5834ab2d92883039e76" title="This function reads the array of the word given to the draw user and prints the xpm of the letter at ..." alt="" coords="436,208,559,235"/>
+<area shape="rect" id="node10" href="$graphics_8c.html#a4a7701a7c35f0ff156dba3e5f9c9f48e" title="This function draws a xpm to the display." alt="" coords="633,208,721,235"/>
+<area shape="rect" id="node11" href="$graphics_8c.html#a08c498ffeb0a3962e3b7711b57397741" title="This functions sets the color of the pixel in the position given to the desired color,..." alt="" coords="769,208,884,235"/>
+</map>

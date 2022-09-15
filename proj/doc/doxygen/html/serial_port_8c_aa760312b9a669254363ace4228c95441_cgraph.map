@@ -1,0 +1,4 @@
+<map id="sp_exit" name="sp_exit">
+<area shape="rect" id="node1" title="This function exits the serial port by clearing the received data queue." alt="" coords="5,5,75,32"/>
+<area shape="rect" id="node2" href="$queue_8c.html#ac9c47c6bcc2955fed6349fc78d6e54a1" title=" " alt="" coords="123,5,177,32"/>
+</map>

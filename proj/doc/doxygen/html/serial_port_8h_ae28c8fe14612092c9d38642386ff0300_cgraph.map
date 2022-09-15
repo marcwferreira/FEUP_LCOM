@@ -1,0 +1,6 @@
+<map id="processWaitingGuessSP" name="processWaitingGuessSP">
+<area shape="rect" id="node1" title="This function determines what a given byte received from the serial port should be used for while wai..." alt="" coords="5,5,183,32"/>
+<area shape="rect" id="node2" href="$serial_port_8c.html#af26804966e7098d673255be2b3985449" title="This function sends a byte through the serial port." alt="" coords="231,5,320,32"/>
+<area shape="rect" id="node3" href="$serial_port_8c.html#a345aef3f6a10f62322b353279a08d690" title="This function reads the status of the serial port." alt="" coords="368,5,480,32"/>
+<area shape="rect" id="node4" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="This function reads from the specified port and transforms the recevied value into an 8 bit number;." alt="" coords="528,5,627,32"/>
+</map>

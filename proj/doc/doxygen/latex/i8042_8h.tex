@@ -1,0 +1,153 @@
+\hypertarget{i8042_8h}{}\doxysection{controllers/keyboard\+Mouse/i8042.h File Reference}
+\label{i8042_8h}\index{controllers/keyboardMouse/i8042.h@{controllers/keyboardMouse/i8042.h}}
+This graph shows which files directly or indirectly include this file\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{i8042_8h__dep__incl}
+\end{center}
+\end{figure}
+\doxysubsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga98427b1c078d8d7369ebc6e3c0f8dae0}{IRQ\+\_\+\+KBC}}~1  /$\ast$$\ast$ IRQ line for KB $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga32ffe73ffc337fbec467ea02948591af}{IRQ\+\_\+\+MOUSE}}~12 /$\ast$$\ast$ IRQ line for mouse $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga5573533027e427e3a11b4daa75621598}{MAKE\+\_\+\+CODE}}~BIT(7) /$\ast$$\ast$ KBC bit to detect if it is a make code $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_gab427e6926fcc47eb1c02c1f78162b6f6}{TWO\+\_\+\+BYTES}}~0x\+E0   /$\ast$$\ast$ KBC to detect it is a two \mbox{\hyperlink{mouse_8c_a56324bcf9340dda5c3623c9ba0ba0ad9}{byte}} code $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_gaefc48d416c882f06edaf6d01779d4d74}{TIMEOUT\+\_\+\+ERROR}}~BIT(6) /$\ast$$\ast$ bit signifiyng timeout error $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga81d2ca6759f3f3bf04556b7558aea6bc}{PARITY\+\_\+\+ERROR}}~BIT(7) /$\ast$$\ast$ bit signifiyng praty error $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga10313c9dfee4ce9cb293f84b50d14889}{FULL\+\_\+\+OUT\+\_\+\+BUFFER}}~BIT(0) /$\ast$$\ast$ bit signifying KBC out buffer is full $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga7eb083dcc1b2aecf91bd8c9108e17b37}{FULL\+\_\+\+IN\+\_\+\+BUFFER}}~BIT(1) /$\ast$$\ast$ bit signifying KBC in buffer in full $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga0b4e336aad52f96e65dd212f76675d8d}{KBC\+\_\+\+STATUS\+\_\+\+REG}}~0x64   /$\ast$$\ast$ Port to read status from KBC $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga445f67cfdfb7046efc77f7df5d9835e2}{KBC\+\_\+\+IN\+\_\+\+CMD}}~0x64   /$\ast$$\ast$ Port to write commands to KBC $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_gade9c0b4f31cee479afed8b824fff02a0}{KBC\+\_\+\+OUT\+\_\+\+CMD}}~0x60   /$\ast$$\ast$ Port to write keyboard or mouse config $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga595a5cad2d3c793963da50865b2c1b47}{KBC\+\_\+\+READ\+\_\+\+CMD}}~0x20   /$\ast$$\ast$ Port to read from KBC $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_gaaa62a6987753a109d2f7a609ce8b7334}{KBC\+\_\+\+WRITE\+\_\+\+CMD}}~0x60   /$\ast$$\ast$ Port to wrtie commands to devices $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga34326f1c6bfccd8b9084c5ae2b4918a1}{ENABLE\+\_\+\+INT}}~BIT(0)  /$\ast$$\ast$ bit to enable mouse\textquotesingle{}s interruptions $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga49b547c547cb646d98c51e0b0bb2588a}{MOUSE\+\_\+\+TICK}}~BIT(5)
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga794d7c5cd970fe3c03741d420c96050a}{MOUSE\+\_\+\+SYNC}}~BIT(3)
+\item 
+\#define \mbox{\hyperlink{group__i8042_gad09bbbc7bbd10f697db046f6d0cc3f6e}{MOUSE\+\_\+\+IN}}~0x\+D4
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga064ec583ce5b039303686ce4c64b4f3e}{MOUSE\+\_\+\+ACK}}~0x\+FA
+\item 
+\#define \mbox{\hyperlink{group__i8042_gaef4a299dedf83b6dc4765baab230affd}{MOUSE\+\_\+\+NACK}}~0x\+FE
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga75ebb9e8d0615febfa6c7c96ad48a38b}{MOUSE\+\_\+\+ERROR}}~0x\+FC
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga81c0f94add844b0761bd142f7f708431}{MOUSE\+\_\+\+LB}}~BIT(0)
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga5f47c1d60579c8691054c939c1d7c20e}{MOUSE\+\_\+\+RB}}~BIT(1)
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga5a934eaadd3536aabe6df0adf6728e8e}{MOUSE\+\_\+\+MB}}~BIT(2)
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga21b57727e5ecc7456b2017ec629a4cf5}{MOUSE\+\_\+\+X\+\_\+\+DELTA}}~BIT(4)
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga8630bdfa4e872f18dc4943f466e60f97}{MOUSE\+\_\+\+Y\+\_\+\+DELTA}}~BIT(5)
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga726368c7d58dac5edc608a58e2e92660}{MOUSE\+\_\+\+X\+\_\+\+SIGNAL}}~BIT(6)
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga4b664cf12fa3048513e4c8b856aefd65}{MOUSE\+\_\+\+Y\+\_\+\+SIGNAL}}~BIT(7)
+\item 
+\#define \mbox{\hyperlink{group__i8042_gaa554763d6a066605edecacdea834da9b}{WAIT\+\_\+\+KBC}}~20000 /$\ast$$\ast$ time the KBC wait for operations that requires it $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga8ca6d466a780b24900c3e94a5798230f}{MAX\+\_\+\+ATTEMPS}}~10   /$\ast$$\ast$ attemps to send or read from KBC $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga0df4fbf54d7714c0f1c5efcc4f6d99a9}{MAKE\+\_\+\+ESC}}~0x01 /$\ast$$\ast$ makescan for ESC $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga82218ef5fdf988f42e5056a0da2f9fb5}{BREAK\+\_\+\+ESC}}~0x81 /$\ast$$\ast$ breakscan for ESC  $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga6ef830375be126391a1a52952027aa74}{MAKE\+\_\+\+ENTER}}~0x1C /$\ast$$\ast$ makescan for ENTER  $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga52da4075f83e9f5c454b4610a26aac07}{BREAK\+\_\+\+ENTER}}~0x9C /$\ast$$\ast$ breakscan for ENTER $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_gacb56d92624362142787722f1d082730f}{MAKE\+\_\+\+MINUS}}~0x0C /$\ast$$\ast$ makescan for MINUS  $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga69f4a4a7fe4a407248f95583f0b0d235}{MAKE\+\_\+\+PLUS}}~0x0D /$\ast$$\ast$ makescan for PLUS   $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_gab20bc5a01e41da2f86c21fe9157098fa}{MAKE\+\_\+\+BACKSPACE}}~0x0E /$\ast$$\ast$ makescan for BACKSPACE $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga7323faa8df8d0eaaa2f295a10b47b734}{MAKE\+\_\+1}}~0x02 /$\ast$$\ast$ makescan code of 1 $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_gabc760bcfe107799691af0a7cfb81c953}{MAKE\+\_\+2}}~0x03 /$\ast$$\ast$ makescan code of 2 $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga0805594367f24340777dd681d19dbb5c}{MAKE\+\_\+3}}~0x04 /$\ast$$\ast$ makescan code of 3 $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga1ebbf01191ac9c60bb5f603dacf3a2f5}{MAKE\+\_\+4}}~0x05 /$\ast$$\ast$ makescan code of 4 $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_gaf49eed0503f02d6e60b0a06d48505010}{MAKE\+\_\+5}}~0x06 /$\ast$$\ast$ makescan code of 5 $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga23384029eebae66d47618f63a43cf163}{MAKE\+\_\+6}}~0x07 /$\ast$$\ast$ makescan code of 6 $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga53ce7d1f424b6da7bb9b0d4cfbf9e864}{MAKE\+\_\+7}}~0x08 /$\ast$$\ast$ makescan code of 7 $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga759978bebd7881249be145f8a1280444}{MAKE\+\_\+8}}~0x09 /$\ast$$\ast$ makescan code of 8 $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_gaa149c92af302f5d9e72a44f335d00ce0}{MAKE\+\_\+A}}~0x1E /$\ast$$\ast$ makescan code of a $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga40d84adf5117e12dfc25116c611faaab}{MAKE\+\_\+B}}~0x30 /$\ast$$\ast$ makescan code of b $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga93787676cd8160ca81750c35ddeb0c90}{MAKE\+\_\+C}}~0x2E /$\ast$$\ast$ makescan code of c $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga126db2c2ecef7c6abe8a14a8a347d3a9}{MAKE\+\_\+D}}~0x20 /$\ast$$\ast$ makescan code of d $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_gaa586914a396a5dda5e750c74a2ba3454}{MAKE\+\_\+E}}~0x12 /$\ast$$\ast$ makescan code of e $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_gaa2c7dafd74f62e6c7cced3996ee01f16}{MAKE\+\_\+F}}~0x21 /$\ast$$\ast$ makescan code of f $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga8dfd132f3743fb140eb08f65eb81b934}{MAKE\+\_\+G}}~0x22 /$\ast$$\ast$ makescan code of g $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_gaa8a5ab68e938309e46c30abc78d35148}{MAKE\+\_\+H}}~0x23 /$\ast$$\ast$ makescan code of h $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_gaf35869cca53bfece85b39e6ca0809eaf}{MAKE\+\_\+I}}~0x17 /$\ast$$\ast$ makescan code of i $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_gac9c83331cb776560c542015285c43500}{MAKE\+\_\+J}}~0x24 /$\ast$$\ast$ makescan code of j $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga79385903f2d30e334f038f10e40bbd82}{MAKE\+\_\+K}}~0x25 /$\ast$$\ast$ makescan code of k $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_gadbf71b0e13b45d46db2f169718147d70}{MAKE\+\_\+L}}~0x26 /$\ast$$\ast$ makescan code of l $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga7be3143fb6e226e23cdffe9c9f7346a2}{MAKE\+\_\+M}}~0x32 /$\ast$$\ast$ makescan code of m $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga2844ab00a7186deaf55feb8c2d7bc61f}{MAKE\+\_\+N}}~0x31 /$\ast$$\ast$ makescan code of n $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga4cd2f955afad039e9ebcbb1a066ef833}{MAKE\+\_\+O}}~0x18 /$\ast$$\ast$ makescan code of o $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga6f4b2baf27cbca540f54e63677fb63ca}{MAKE\+\_\+P}}~0x19 /$\ast$$\ast$ makescan code of p $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga9b4d1ceec06604523939db69d45374f7}{MAKE\+\_\+Q}}~0x10 /$\ast$$\ast$ makescan code of q $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga0d2642e1448d279d4c72995f7b39e158}{MAKE\+\_\+R}}~0x13 /$\ast$$\ast$ makescan code of r $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga7327330cf4cd2aa037a35cb1d4a130e1}{MAKE\+\_\+S}}~0x1F /$\ast$$\ast$ makescan code of s $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga9d8afa3b54a80c7e5bcba2eda4979d47}{MAKE\+\_\+T}}~0x14 /$\ast$$\ast$ makescan code of t $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga52d4c0d6c526df559ed58cc59e45ecf0}{MAKE\+\_\+U}}~0x16 /$\ast$$\ast$ makescan code of u $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga1d567dccdf80fae5603dd1149f6d874b}{MAKE\+\_\+V}}~0x2F /$\ast$$\ast$ makescan code of v $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga5287931eda665268f55498ec93276c84}{MAKE\+\_\+W}}~0x11 /$\ast$$\ast$ makescan code of w $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga30c9f1029ae4e95160ea30b5b99d9de0}{MAKE\+\_\+X}}~0x2D /$\ast$$\ast$ makescan code of \mbox{\hyperlink{sprites_8c_a6150e0515f7202e2fb518f7206ed97dc}{x}} $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga3fdc624928cb325bc1aedeb2dd798d01}{MAKE\+\_\+Y}}~0x15 /$\ast$$\ast$ makescan code of \mbox{\hyperlink{sprites_8c_a0a2f84ed7838f07779ae24c5a9086d33}{y}} $\ast$/
+\item 
+\#define \mbox{\hyperlink{group__i8042_ga73cf4a8229159c5a3d6fd29f68543835}{MAKE\+\_\+Z}}~0x2C /$\ast$$\ast$ makescan code of z $\ast$/
+\end{DoxyCompactItemize}

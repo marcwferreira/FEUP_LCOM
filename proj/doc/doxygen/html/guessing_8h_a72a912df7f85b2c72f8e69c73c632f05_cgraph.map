@@ -1,0 +1,8 @@
+<map id="drawGuessingGame" name="drawGuessingGame">
+<area shape="rect" id="node1" title="This function loads the differents components of a frame into the secondary buffer." alt="" coords="5,56,159,83"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#a4ab4d19eaa963077f2d4e42e8f46212d" title="This function copies anything not transparent of the draw buffer to the image buffer." alt="" coords="213,5,373,32"/>
+<area shape="rect" id="node3" href="$game_8c.html#ac394319f787d76cd26e4b4c5f180cee9" title="This funtion draws the in&#45;game counter on the screen." alt="" coords="207,56,379,83"/>
+<area shape="rect" id="node6" href="$game_8c.html#af21d5e92b258d5834ab2d92883039e76" title="This function reads the array of the word given to the draw user and prints the xpm of the letter at ..." alt="" coords="231,107,354,133"/>
+<area shape="rect" id="node4" href="$graphics_8c.html#a4a7701a7c35f0ff156dba3e5f9c9f48e" title="This function draws a xpm to the display." alt="" coords="427,81,515,108"/>
+<area shape="rect" id="node5" href="$graphics_8c.html#a08c498ffeb0a3962e3b7711b57397741" title="This functions sets the color of the pixel in the position given to the desired color,..." alt="" coords="563,81,677,108"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="kbc_ih" name="kbc_ih">
+<area shape="rect" id="node1" title="Keyboard&#39;s interrupt handler." alt="" coords="5,31,69,57"/>
+<area shape="rect" id="node2" href="$keyboard_8c.html#a2a43cda4f3f1e4a217efa830e01d4e4d" title="This function reads the content in the specified port." alt="" coords="117,31,252,57"/>
+<area shape="rect" id="node3" href="$keyboard_8c.html#ac024af91b156e4fc61ee3886b891de21" title="This function reads the status of the KBC." alt="" coords="300,5,432,32"/>
+<area shape="rect" id="node4" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="This function reads from the specified port and transforms the recevied value into an 8 bit number;." alt="" coords="480,31,579,57"/>
+</map>

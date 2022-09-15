@@ -1,0 +1,6 @@
+<map id="timer_get_conf" name="timer_get_conf">
+<area shape="rect" id="node1" title="this function reads from the timer given by input its status" alt="" coords="571,5,691,32"/>
+<area shape="rect" id="node2" href="$timer_8c.html#af2c04fa8e97ffa748fd3f612886a92a7" title=" " alt="" coords="367,5,523,32"/>
+<area shape="rect" id="node3" href="$main_8c.html#a9c74859d9e32b26fca9274d294eff910" title=" " alt="" coords="176,5,319,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,128,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="headerCompose" name="headerCompose">
+<area shape="rect" id="node1" title="This function draws the top bar of the game in drawing and guessing modes." alt="" coords="5,31,133,57"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#a11c8e09efdeb8391158cdc8f1a55271a" title="This function draws the static components of the header and the footer in guess mode and draw mode." alt="" coords="181,5,357,32"/>
+<area shape="rect" id="node3" href="$graphics_8c.html#a950e005de3296df88b0921ae17171cc4" title="This function loads a xpm image to the drawBuffer." alt="" coords="191,56,348,83"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="KB_DrawingControls" name="KB_DrawingControls">
+<area shape="rect" id="node1" title="This function process the pressing of jeys by the player and realizes the function correct action for..." alt="" coords="5,31,160,57"/>
+<area shape="rect" id="node2" href="$serial_port_8c.html#af26804966e7098d673255be2b3985449" title="This function sends a byte through the serial port." alt="" coords="233,5,323,32"/>
+<area shape="rect" id="node5" href="$serial_port_8c.html#aeaa3f7885cf1173c43a4f70f58c9abfd" title="The function prepares the queue and FCR for the next interruptiom, it empties the queue to prevent er..." alt="" coords="208,56,348,83"/>
+<area shape="rect" id="node3" href="$serial_port_8c.html#a345aef3f6a10f62322b353279a08d690" title="This function reads the status of the serial port." alt="" coords="396,5,508,32"/>
+<area shape="rect" id="node4" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="This function reads from the specified port and transforms the recevied value into an 8 bit number;." alt="" coords="556,5,655,32"/>
+<area shape="rect" id="node6" href="$queue_8c.html#a29cc47cb6982704e8c4045db0927b888" title=" " alt="" coords="568,81,643,108"/>
+<area shape="rect" id="node7" href="$queue_8c.html#ab0a7af1151628d3b2580f6da46706fce" title=" " alt="" coords="429,107,475,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="drawCircle" name="drawCircle">
+<area shape="rect" id="node1" title="This function draws a circle on the drawing canvas." alt="" coords="768,56,859,83"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#aef6afec6ec4db03339ba38050ab30052" title="This function draws a line between two points on the drawing canvas." alt="" coords="604,56,720,83"/>
+<area shape="rect" id="node3" href="$drawing_8c.html#a91a437d267e8f431fdc48f38020cd7d2" title="This function process left clicks on the draw page, it verifeis where the player clicked and realizes..." alt="" coords="372,5,551,32"/>
+<area shape="rect" id="node6" href="$drawing_8c.html#a02386551bfca56575b414789cd774a08" title="This function process right clicks on the draw page, it verifeis where the player clicked and realize..." alt="" coords="367,56,556,83"/>
+<area shape="rect" id="node7" href="$serial_port_8c.html#a6a93d1d284d0c1558b521772388ef5fb" title="This function determines what a given byte received from the serial port should be used for while pla..." alt="" coords="373,107,549,133"/>
+<area shape="rect" id="node4" href="$main_8c.html#a9c74859d9e32b26fca9274d294eff910" title=" " alt="" coords="176,56,319,83"/>
+<area shape="rect" id="node5" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,56,128,83"/>
+</map>

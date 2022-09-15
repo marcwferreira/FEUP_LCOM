@@ -1,0 +1,4 @@
+<map id="drawSprite" name="drawSprite">
+<area shape="rect" id="node1" title="Draws a loaded SPrite onto the screen, The x and y represents the top left corner of the Sprite." alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#a08c498ffeb0a3962e3b7711b57397741" title="This functions sets the color of the pixel in the position given to the desired color,..." alt="" coords="145,5,260,32"/>
+</map>

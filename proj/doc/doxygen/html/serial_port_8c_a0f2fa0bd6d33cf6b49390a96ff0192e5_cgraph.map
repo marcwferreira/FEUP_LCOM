@@ -1,0 +1,7 @@
+<map id="read_byte" name="read_byte">
+<area shape="rect" id="node1" title="This function reads a byte from the serial port and pushes it to the received data queue." alt="" coords="5,56,92,83"/>
+<area shape="rect" id="node2" href="$queue_8c.html#a25897dd8dc27d857546b0d3f81058d8c" title=" " alt="" coords="169,5,223,32"/>
+<area shape="rect" id="node4" href="$serial_port_8c.html#a345aef3f6a10f62322b353279a08d690" title="This function reads the status of the serial port." alt="" coords="140,56,252,83"/>
+<area shape="rect" id="node5" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="This function reads from the specified port and transforms the recevied value into an 8 bit number;." alt="" coords="300,81,399,108"/>
+<area shape="rect" id="node3" href="$queue_8c.html#a3f2350d97e2b928dece5642ebfc1d173" title=" " alt="" coords="321,5,377,32"/>
+</map>

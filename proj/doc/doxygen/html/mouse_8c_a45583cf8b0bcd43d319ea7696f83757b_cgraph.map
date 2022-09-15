@@ -1,0 +1,4 @@
+<map id="mouse_config" name="mouse_config">
+<area shape="rect" id="node1" title="this function configures the mouse, verify if there is no error with the read of the port" alt="" coords="5,5,117,32"/>
+<area shape="rect" id="node2" href="$mouse_8c.html#a4f5819f1152bee25df178d5bc9f452a0" title="this function writes a specified controlWord to port defined by the user" alt="" coords="165,5,249,32"/>
+</map>

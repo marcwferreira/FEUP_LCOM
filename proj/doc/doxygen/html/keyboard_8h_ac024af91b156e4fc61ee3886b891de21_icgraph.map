@@ -1,0 +1,9 @@
+<map id="read_KBC_status" name="read_KBC_status">
+<area shape="rect" id="node1" title="This function reads the status of the KBC." alt="" coords="723,31,855,57"/>
+<area shape="rect" id="node2" href="$keyboard_8c.html#a2a43cda4f3f1e4a217efa830e01d4e4d" title="This function reads the content in the specified port." alt="" coords="527,5,661,32"/>
+<area shape="rect" id="node7" href="$keyboard_8c.html#a34b653b3939fffe883c903cdadb36d3a" title="This function writes a command to the specified port." alt="" coords="513,56,675,83"/>
+<area shape="rect" id="node3" href="$keyboard_8c.html#aea970a154161a35f6894898a092ed70a" title="Keyboard&#39;s interrupt handler." alt="" coords="384,5,448,32"/>
+<area shape="rect" id="node6" href="$keyboard_8c.html#aadded535aadcef84a6ed404780215328" title="Restore the KBC configuration to MINIX&#39;s default." alt="" coords="367,56,465,83"/>
+<area shape="rect" id="node4" href="$main_8c.html#a9c74859d9e32b26fca9274d294eff910" title=" " alt="" coords="176,5,319,32"/>
+<area shape="rect" id="node5" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,128,32"/>
+</map>

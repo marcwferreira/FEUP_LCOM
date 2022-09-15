@@ -1,0 +1,6 @@
+<map id="processStartGuessButton" name="processStartGuessButton">
+<area shape="rect" id="node1" title="This function detects it the player is pressing the guess button and if the press if valid...." alt="" coords="5,31,192,57"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#af17fcbf1be075a018f5b5e657275ec69" title="This function fills the buffer with the color white." alt="" coords="240,5,367,32"/>
+<area shape="rect" id="node3" href="$graphics_8c.html#a0eb44dd3048885b5c6bdac8f78899487" title="This function draws the bottom bar of the game in drawing and guessing modes." alt="" coords="242,56,365,83"/>
+<area shape="rect" id="node4" href="$graphics_8c.html#a11c8e09efdeb8391158cdc8f1a55271a" title="This function draws the static components of the header and the footer in guess mode and draw mode." alt="" coords="415,56,591,83"/>
+</map>

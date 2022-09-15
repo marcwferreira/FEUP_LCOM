@@ -1,0 +1,4 @@
+<map id="loadSprites" name="loadSprites">
+<area shape="rect" id="node1" title="A function that loads all the needed Sprites when te program starts running. allocates memory as need..." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node2" href="$sprites_8c.html#a7c5b3faa35cdabca73ddab6179e0868d" title="Create a Sprite object from a xpm." alt="" coords="148,5,249,32"/>
+</map>

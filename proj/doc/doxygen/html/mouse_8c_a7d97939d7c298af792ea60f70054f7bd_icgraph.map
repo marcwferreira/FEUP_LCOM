@@ -1,0 +1,6 @@
+<map id="KBCRead" name="KBCRead">
+<area shape="rect" id="node1" title="this function reads from a port and put the word read to output" alt="" coords="500,5,583,32"/>
+<area shape="rect" id="node2" href="$mouse_8c.html#a210374b50462acdedab00df64d5cea3c" title="Mouse&#39;s input handler." alt="" coords="367,5,452,32"/>
+<area shape="rect" id="node3" href="$main_8c.html#a9c74859d9e32b26fca9274d294eff910" title=" " alt="" coords="176,5,319,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,128,32"/>
+</map>

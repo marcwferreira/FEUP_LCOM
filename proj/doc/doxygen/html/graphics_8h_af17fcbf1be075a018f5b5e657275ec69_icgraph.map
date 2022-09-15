@@ -1,0 +1,9 @@
+<map id="clearDrawBuffer" name="clearDrawBuffer">
+<area shape="rect" id="node1" title="This function fills the buffer with the color white." alt="" coords="601,81,728,108"/>
+<area shape="rect" id="node2" href="$menu_8c.html#a0003deda87fcc4090e53c2775f163144" title="This function process the pressing of jeys by the player and realizes the function correct action for..." alt="" coords="391,5,529,32"/>
+<area shape="rect" id="node5" href="$menu_8c.html#ab859ac644122c981608478833cf4b7ee" title="This function detects it the player is pressing the instruction button and if the press if valid...." alt="" coords="388,56,532,83"/>
+<area shape="rect" id="node6" href="$menu_8c.html#a6a4c43846a973f849b2027363176dcb2" title="This function detects it the player is pressing the draw button and if the press if valid...." alt="" coords="370,107,550,133"/>
+<area shape="rect" id="node7" href="$menu_8c.html#aad86b088b468df45161d1bb04697f5fa" title="This function detects it the player is pressing the guess button and if the press if valid...." alt="" coords="367,157,553,184"/>
+<area shape="rect" id="node3" href="$main_8c.html#a9c74859d9e32b26fca9274d294eff910" title=" " alt="" coords="176,81,319,108"/>
+<area shape="rect" id="node4" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,81,128,108"/>
+</map>

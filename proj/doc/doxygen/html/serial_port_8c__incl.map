@@ -1,0 +1,12 @@
+<map id="controllers/serialPort/serialPort.c" name="controllers/serialPort/serialPort.c">
+<area shape="rect" id="node1" title=" " alt="" coords="195,5,352,47"/>
+<area shape="rect" id="node2" href="$serial_port_8h.html" title=" " alt="" coords="47,95,143,121"/>
+<area shape="rect" id="node6" href="$graphics_8h.html" title=" " alt="" coords="203,95,344,121"/>
+<area shape="rect" id="node10" href="$macros_8h.html" title=" " alt="" coords="368,95,515,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="16,244,101,271"/>
+<area shape="rect" id="node4" href="$queue_8h.html" title=" " alt="" coords="21,169,96,196"/>
+<area shape="rect" id="node5" href="$_s_p_8h.html" title=" " alt="" coords="120,169,168,196"/>
+<area shape="rect" id="node7" href="$_v_b_e_8h.html" title=" " alt="" coords="243,169,303,196"/>
+<area shape="rect" id="node8" href="$_b_i_o_s___m_a_c_r_o_s_8h.html" title=" " alt="" coords="327,169,457,196"/>
+<area shape="rect" id="node9" href="$_c_o_l_o_r_s_8h.html" title=" " alt="" coords="481,169,620,196"/>
+</map>

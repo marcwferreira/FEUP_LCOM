@@ -1,0 +1,4 @@
+<map id="drawCircle" name="drawCircle">
+<area shape="rect" id="node1" title="This function draws a circle on the drawing canvas." alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#a9796639951073aea987e7c43c6f5d6ff" title="This function draws a pixel on the drawing canvas." alt="" coords="144,5,277,32"/>
+</map>

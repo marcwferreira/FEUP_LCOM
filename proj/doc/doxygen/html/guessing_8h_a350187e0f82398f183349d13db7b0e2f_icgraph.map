@@ -1,0 +1,6 @@
+<map id="compareGuess" name="compareGuess">
+<area shape="rect" id="node1" title="This function is called to compare the input of the player and the word given. It checks id the guess..." alt="" coords="576,5,695,32"/>
+<area shape="rect" id="node2" href="$guessing_8c.html#a710678f0d413e61a96be3b39bf14838f" title="This function process the pressing of jeys by the player and realizes the function correct action for..." alt="" coords="367,5,528,32"/>
+<area shape="rect" id="node3" href="$main_8c.html#a9c74859d9e32b26fca9274d294eff910" title=" " alt="" coords="176,5,319,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,128,32"/>
+</map>

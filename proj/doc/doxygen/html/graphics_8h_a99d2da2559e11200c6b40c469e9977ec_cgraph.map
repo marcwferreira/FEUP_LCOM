@@ -1,0 +1,5 @@
+<map id="vg_draw_rectangle" name="vg_draw_rectangle">
+<area shape="rect" id="node1" title="This function draws a rectagle (or square) of the desired size starting x and y as the top left corne..." alt="" coords="5,5,151,32"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#a5e5b25bd525250f61f40b9e9f212d5e6" title="This function draws a line on the screen." alt="" coords="199,5,315,32"/>
+<area shape="rect" id="node3" href="$graphics_8c.html#a08c498ffeb0a3962e3b7711b57397741" title="This functions sets the color of the pixel in the position given to the desired color,..." alt="" coords="363,5,477,32"/>
+</map>

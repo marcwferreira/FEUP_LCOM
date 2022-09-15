@@ -1,0 +1,10 @@
+<map id="wordInterpreter" name="wordInterpreter">
+<area shape="rect" id="node1" title="This function reads the array of the word given to the draw user and prints the xpm of the letter at ..." alt="" coords="796,56,919,83"/>
+<area shape="rect" id="node2" href="$drawing_8c.html#ade6f4eb2ec2071b4ad3b0cd6ed67d8fa" title="This function loads the differents components of a frame into the secondary buffer." alt="" coords="383,5,530,32"/>
+<area shape="rect" id="node5" href="$guessing_8c.html#a72a912df7f85b2c72f8e69c73c632f05" title="This function loads the differents components of a frame into the secondary buffer." alt="" coords="595,56,748,83"/>
+<area shape="rect" id="node6" href="$drawing_8c.html#a4119c1dbe665fcb4ee64800849b8b40f" title="This funtion process the word selected for the gameplay and displays it to the screen when called." alt="" coords="619,107,724,133"/>
+<area shape="rect" id="node3" href="$main_8c.html#a9c74859d9e32b26fca9274d294eff910" title=" " alt="" coords="176,81,319,108"/>
+<area shape="rect" id="node4" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,81,128,108"/>
+<area shape="rect" id="node7" href="$menu_8c.html#a0003deda87fcc4090e53c2775f163144" title="This function process the pressing of jeys by the player and realizes the function correct action for..." alt="" coords="388,107,525,133"/>
+<area shape="rect" id="node8" href="$menu_8c.html#a6a4c43846a973f849b2027363176dcb2" title="This function detects it the player is pressing the draw button and if the press if valid...." alt="" coords="367,157,547,184"/>
+</map>

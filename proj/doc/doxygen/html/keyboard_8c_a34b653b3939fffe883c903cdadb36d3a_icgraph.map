@@ -1,0 +1,4 @@
+<map id="write_KBC_command" name="write_KBC_command">
+<area shape="rect" id="node1" title="This function writes a command to the specified port." alt="" coords="152,5,313,32"/>
+<area shape="rect" id="node2" href="$keyboard_8c.html#aadded535aadcef84a6ed404780215328" title="Restore the KBC configuration to MINIX&#39;s default." alt="" coords="5,5,104,32"/>
+</map>

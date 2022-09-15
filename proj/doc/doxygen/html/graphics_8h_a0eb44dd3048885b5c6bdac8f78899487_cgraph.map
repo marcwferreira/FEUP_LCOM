@@ -1,0 +1,4 @@
+<map id="footerCompose" name="footerCompose">
+<area shape="rect" id="node1" title="This function draws the bottom bar of the game in drawing and guessing modes." alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#a11c8e09efdeb8391158cdc8f1a55271a" title="This function draws the static components of the header and the footer in guess mode and draw mode." alt="" coords="176,5,352,32"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="processPlayingGuessSP" name="processPlayingGuessSP">
+<area shape="rect" id="node1" title="This function determines what a given byte received from the serial port should be used for while pla..." alt="" coords="5,107,181,133"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#aef6afec6ec4db03339ba38050ab30052" title="This function draws a line between two points on the drawing canvas." alt="" coords="241,5,357,32"/>
+<area shape="rect" id="node5" href="$serial_port_8c.html#adb0e6f5a7690e15050a8ff43fe49b252" title="This function is used to get the received data queue." alt="" coords="247,56,351,83"/>
+<area shape="rect" id="node6" href="$queue_8c.html#ab0a7af1151628d3b2580f6da46706fce" title=" " alt="" coords="439,107,486,133"/>
+<area shape="rect" id="node8" href="$serial_port_8c.html#aeaa3f7885cf1173c43a4f70f58c9abfd" title="The function prepares the queue and FCR for the next interruptiom, it empties the queue to prevent er..." alt="" coords="229,157,369,184"/>
+<area shape="rect" id="node9" href="$serial_port_8c.html#af6cc263493df7caac7bd7d0be6b50635" title="Serial ports&#39;s interrupt handler." alt="" coords="271,208,327,235"/>
+<area shape="rect" id="node3" href="$graphics_8c.html#ac5384a5742642a69b2f08ffaad875298" title="This function draws a circle on the drawing canvas." alt="" coords="417,5,508,32"/>
+<area shape="rect" id="node4" href="$graphics_8c.html#a9796639951073aea987e7c43c6f5d6ff" title="This function draws a pixel on the drawing canvas." alt="" coords="556,5,689,32"/>
+<area shape="rect" id="node7" href="$queue_8c.html#a29cc47cb6982704e8c4045db0927b888" title=" " alt="" coords="585,107,660,133"/>
+<area shape="rect" id="node10" href="$serial_port_8c.html#a0f2fa0bd6d33cf6b49390a96ff0192e5" title="This function reads a byte from the serial port and pushes it to the received data queue." alt="" coords="419,208,506,235"/>
+<area shape="rect" id="node14" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="This function reads from the specified port and transforms the recevied value into an 8 bit number;." alt="" coords="737,259,836,285"/>
+<area shape="rect" id="node11" href="$queue_8c.html#a25897dd8dc27d857546b0d3f81058d8c" title=" " alt="" coords="596,157,649,184"/>
+<area shape="rect" id="node13" href="$serial_port_8c.html#a345aef3f6a10f62322b353279a08d690" title="This function reads the status of the serial port." alt="" coords="567,208,679,235"/>
+<area shape="rect" id="node12" href="$queue_8c.html#a3f2350d97e2b928dece5642ebfc1d173" title=" " alt="" coords="759,157,815,184"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="footerCompose" name="footerCompose">
+<area shape="rect" id="node1" title="This function draws the bottom bar of the game in drawing and guessing modes." alt="" coords="601,56,724,83"/>
+<area shape="rect" id="node2" href="$menu_8c.html#a0003deda87fcc4090e53c2775f163144" title="This function process the pressing of jeys by the player and realizes the function correct action for..." alt="" coords="391,5,529,32"/>
+<area shape="rect" id="node5" href="$menu_8c.html#a6a4c43846a973f849b2027363176dcb2" title="This function detects it the player is pressing the draw button and if the press if valid...." alt="" coords="370,56,550,83"/>
+<area shape="rect" id="node6" href="$menu_8c.html#aad86b088b468df45161d1bb04697f5fa" title="This function detects it the player is pressing the guess button and if the press if valid...." alt="" coords="367,107,553,133"/>
+<area shape="rect" id="node3" href="$main_8c.html#a9c74859d9e32b26fca9274d294eff910" title=" " alt="" coords="176,56,319,83"/>
+<area shape="rect" id="node4" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,56,128,83"/>
+</map>

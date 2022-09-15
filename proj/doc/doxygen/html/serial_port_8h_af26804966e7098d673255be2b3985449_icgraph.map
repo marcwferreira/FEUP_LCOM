@@ -1,0 +1,11 @@
+<map id="send_byte" name="send_byte">
+<area shape="rect" id="node1" title="This function sends a byte through the serial port." alt="" coords="604,157,693,184"/>
+<area shape="rect" id="node2" href="$drawing_8c.html#a01547608c10f80c48d70f71f41efb741" title="This function process the pressing of jeys by the player and realizes the function correct action for..." alt="" coords="384,5,539,32"/>
+<area shape="rect" id="node3" href="$main_8c.html#a9c74859d9e32b26fca9274d294eff910" title=" " alt="" coords="176,157,319,184"/>
+<area shape="rect" id="node5" href="$guessing_8c.html#a710678f0d413e61a96be3b39bf14838f" title="This function process the pressing of jeys by the player and realizes the function correct action for..." alt="" coords="381,107,542,133"/>
+<area shape="rect" id="node6" href="$drawing_8c.html#a91a437d267e8f431fdc48f38020cd7d2" title="This function process left clicks on the draw page, it verifeis where the player clicked and realizes..." alt="" coords="372,157,551,184"/>
+<area shape="rect" id="node7" href="$drawing_8c.html#a02386551bfca56575b414789cd774a08" title="This function process right clicks on the draw page, it verifeis where the player clicked and realize..." alt="" coords="367,208,556,235"/>
+<area shape="rect" id="node8" href="$serial_port_8c.html#a2042007baf9a4bf12a65c04063e8229b" title="This function determines what a given byte received from the serial port should be used for while wai..." alt="" coords="376,259,547,285"/>
+<area shape="rect" id="node9" href="$serial_port_8c.html#ae28c8fe14612092c9d38642386ff0300" title="This function determines what a given byte received from the serial port should be used for while wai..." alt="" coords="373,309,550,336"/>
+<area shape="rect" id="node4" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,157,128,184"/>
+</map>

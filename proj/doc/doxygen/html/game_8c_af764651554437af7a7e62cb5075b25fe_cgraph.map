@@ -1,0 +1,5 @@
+<map id="printMouse" name="printMouse">
+<area shape="rect" id="node1" title="This function prints the xpm of the mouse on the screen, it checks to see with mouse xpm it should us..." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node2" href="$sprites_8c.html#a3fc1965bb7f45fd72fff8a402c507186" title="Draws a loaded SPrite onto the screen, The x and y represents the top left corner of the Sprite." alt="" coords="148,5,240,32"/>
+<area shape="rect" id="node3" href="$graphics_8c.html#a08c498ffeb0a3962e3b7711b57397741" title="This functions sets the color of the pixel in the position given to the desired color,..." alt="" coords="288,5,403,32"/>
+</map>

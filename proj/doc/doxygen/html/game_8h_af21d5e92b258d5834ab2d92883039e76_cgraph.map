@@ -1,0 +1,5 @@
+<map id="wordInterpreter" name="wordInterpreter">
+<area shape="rect" id="node1" title="This function reads the array of the word given to the draw user and prints the xpm of the letter at ..." alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#a4a7701a7c35f0ff156dba3e5f9c9f48e" title="This function draws a xpm to the display." alt="" coords="176,5,264,32"/>
+<area shape="rect" id="node3" href="$graphics_8c.html#a08c498ffeb0a3962e3b7711b57397741" title="This functions sets the color of the pixel in the position given to the desired color,..." alt="" coords="312,5,427,32"/>
+</map>
